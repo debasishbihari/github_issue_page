@@ -7,7 +7,7 @@ It is a simplified version of github opened issues page.
 https://github-opened-issues-page.vercel.app/
 
 ## Screenshot
-[Imgur](https://imgur.com/fslJzEn)
+[Img](https://drive.google.com/file/d/1Lo08SwUA9ZrMLfipJKNTlfhab0NVBksZ/view?usp=sharing)
 
 
 ## Installation
